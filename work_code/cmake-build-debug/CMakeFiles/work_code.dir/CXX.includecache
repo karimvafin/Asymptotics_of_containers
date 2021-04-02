@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/karimvafin/Documents/Repositories/MIPT/Subcontainers_asymptotics/work_code/main.cpp
+subvectorTemplate.cpp
+/Users/karimvafin/Documents/Repositories/MIPT/Subcontainers_asymptotics/work_code/subvectorTemplate.cpp
+subforwardlistTemplate.cpp
+/Users/karimvafin/Documents/Repositories/MIPT/Subcontainers_asymptotics/work_code/subforwardlistTemplate.cpp
+string
+-
+fstream
+-
+vector
+-
+forward_list
+-
+list
+-
+map
+-
+set
+-
+ctime
+-
+
+/Users/karimvafin/Documents/Repositories/MIPT/Subcontainers_asymptotics/work_code/subforwardlistTemplate.cpp
+iostream
+-
+
+/Users/karimvafin/Documents/Repositories/MIPT/Subcontainers_asymptotics/work_code/subvectorTemplate.cpp
+iostream
+-
+
